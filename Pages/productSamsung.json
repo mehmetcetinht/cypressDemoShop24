@@ -1,0 +1,9 @@
+{
+    "productImage":"(//img[@title='Samsung SyncMaster 941BW'])[2]",
+    "productName":"(//a[@href='http://www.demoshop24.com/index.php?route=product/product&product_id=33'])[4]",
+    "productModel":"//td[@class='text-left' and text()='Product 6']",
+    "productQuantity":"//input[@class='form-control' and @value='1']",
+    "unitPrice":"(//td[@class='text-right' and text()='$242.00'])[3]",
+    "totalPrice":"(//td[@class='text-right' and text()='$242.00'])[4]",
+    "totalCheckoutPrice":"(//td[@class='text-right' and text()='$242.00'])[5]"
+}

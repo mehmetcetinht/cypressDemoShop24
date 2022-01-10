@@ -1,0 +1,9 @@
+{
+    "caption": ".caption",
+    "priceCaption": "//p[@class='price']",
+    "addToCartButton": "//button[@id='button-cart']",
+    "successAlert":"//*[@class='alert alert-success alert-dismissible']",
+    "desktopTab":"//a[@class='list-group-item active' and contains(text(),'Desktops')]",
+    "desktopHeader":"#content h2",
+    "iMac":"//a[text()='iMac']"
+}

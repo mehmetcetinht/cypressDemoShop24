@@ -1,0 +1,50 @@
+{
+  "uid" : "be9011a621b397e3",
+  "name" : "Login with empty credentials",
+  "fullName" : "Login Suite.Login with empty credentials",
+  "historyId" : "e8b36a550807b66ac61c44c78bb4a43b",
+  "time" : {
+    "start" : 1641843120942,
+    "stop" : 1641843123935,
+    "duration" : 2993
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login with empty credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be9011a621b397e3.json",
+  "parameterValues" : [ ]
+}

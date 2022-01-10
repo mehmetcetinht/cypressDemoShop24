@@ -1,0 +1,12 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "includeShadowDom": true,
+    "chromeWebSecurity": false,
+    "integrationFolder": "cypress/integration/DemoShop24",
+    "retries": {
+        "runMode": 1,
+        "openMode": 1
+    },
+    "video": false,
+    "screenshotOnRunFailure": true
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "f82b1e38dd5f1097",
+  "name" : "Logout via element within list Test",
+  "fullName" : "Login Suite.Logout via element within list Test",
+  "historyId" : "80a7b7048c039c31bfb2a852dbaac04c",
+  "time" : {
+    "start" : 1641843096638,
+    "stop" : 1641843099879,
+    "duration" : 3241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout via element within list Test"
+  }, {
+    "name" : "package",
+    "value" : "Login Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f82b1e38dd5f1097.json",
+  "parameterValues" : [ ]
+}

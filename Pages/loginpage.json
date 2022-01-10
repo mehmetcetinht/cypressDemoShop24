@@ -1,0 +1,10 @@
+{
+    "newCustomerHeader": ".well",
+    "email": "//input[@id='input-email']",
+    "password": "//input[@id='input-password']",
+    "loginButton": "//input[@type='submit']",
+    "accountTab": "//a[@href='http://www.demoshop24.com/index.php?route=account/account' and text()='Account']",
+    "listLogout": "(//a[@href='http://www.demoshop24.com/index.php?route=account/logout' and text()='Logout'])[2]",
+    "content": "#content.col-sm-9",
+    "continueButton": "//a[@class='btn btn-primary' and text()='Continue']"
+}

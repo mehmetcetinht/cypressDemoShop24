@@ -1,0 +1,7 @@
+{
+    "name":"//h1[text()='iMac']",
+    "brand":"//a[text()='Apple']",
+    "productCode":"//li[text()='Product Code: Product 14']",
+    "availability":"//li[text()='Availability: In Stock']",
+    "price":"//h2[text()='$122.00']"
+}

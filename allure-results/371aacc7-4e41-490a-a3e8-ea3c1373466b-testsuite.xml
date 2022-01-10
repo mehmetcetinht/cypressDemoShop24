@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1641843138990' stop='1641843152650'>
+    <name>Search Suite</name>
+    <title>Search Suite</title>
+    <test-cases>
+        <test-case start='1641843138990' status='passed' stop='1641843149922'>
+            <name>Search Samsung Item</name>
+            <title>Search Samsung Item</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641843149960' status='passed' stop='1641843152650'>
+            <name>Search Mac Item</name>
+            <title>Search Mac Item</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,11 @@
+{
+    "registerHeader": "//div[@id='content']//h1[text()='Register Account']",
+    "firstName":"input[name='firstname']",
+    "lastName":"input[name='lastname']",
+    "email":"input[name='email']",
+    "phone":"input[name='telephone']",
+    "password":"input[name='password']",
+    "passConfirm":"input[name='confirm']",
+    "agreeCheckbox":"input[name='agree']",
+    "registerSuccess":"#content h1"
+}

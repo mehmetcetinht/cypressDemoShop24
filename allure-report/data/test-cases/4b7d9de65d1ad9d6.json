@@ -1,0 +1,50 @@
+{
+  "uid" : "4b7d9de65d1ad9d6",
+  "name" : "Register as new user and login with that user",
+  "fullName" : "Login Suite.Register as new user and login with that user",
+  "historyId" : "eb88f8730076f40c61101ec976721946",
+  "time" : {
+    "start" : 1641843123969,
+    "stop" : 1641843135627,
+    "duration" : 11658
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Register as new user and login with that user"
+  }, {
+    "name" : "package",
+    "value" : "Login Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b7d9de65d1ad9d6.json",
+  "parameterValues" : [ ]
+}

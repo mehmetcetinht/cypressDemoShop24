@@ -1,0 +1,91 @@
+[ {
+  "uid" : "260634aa7f0b29c7",
+  "name" : "Search Samsung Item",
+  "time" : {
+    "start" : 1641843138990,
+    "stop" : 1641843149922,
+    "duration" : 10932
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be9011a621b397e3",
+  "name" : "Login with empty credentials",
+  "time" : {
+    "start" : 1641843120942,
+    "stop" : 1641843123935,
+    "duration" : 2993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db7411e3b700bd50",
+  "name" : "Login with Invalid password",
+  "time" : {
+    "start" : 1641843117348,
+    "stop" : 1641843120907,
+    "duration" : 3559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f82b1e38dd5f1097",
+  "name" : "Logout via element within list Test",
+  "time" : {
+    "start" : 1641843096638,
+    "stop" : 1641843099879,
+    "duration" : 3241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56ade11a1bcac34d",
+  "name" : "Search Mac Item",
+  "time" : {
+    "start" : 1641843149960,
+    "stop" : 1641843152650,
+    "duration" : 2690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb869c637ac64041",
+  "name" : "Login with Invalid email",
+  "time" : {
+    "start" : 1641843102976,
+    "stop" : 1641843117272,
+    "duration" : 14296
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "777a72599a955cf3",
+  "name" : "Logout via element within dropdown Test",
+  "time" : {
+    "start" : 1641843099887,
+    "stop" : 1641843102940,
+    "duration" : 3053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d807ca67f18d0960",
+  "name" : "Positive Login Test",
+  "time" : {
+    "start" : 1641843088913,
+    "stop" : 1641843096556,
+    "duration" : 7643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b7d9de65d1ad9d6",
+  "name" : "Register as new user and login with that user",
+  "time" : {
+    "start" : 1641843123969,
+    "stop" : 1641843135627,
+    "duration" : 11658
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

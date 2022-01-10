@@ -1,0 +1,18 @@
+{
+    "homepageHeader": "//a[@href='http://www.demoshop24.com/index.php?route=common/home']",
+    "myAccountDropdown": "//*[@class='fa fa-user']",
+    "loginButton": "//*[@href='http://www.demoshop24.com/index.php?route=account/login']",
+    "macbook": "//a[text()='MacBook']",
+    "logoutButton": "(//a[@href='http://www.demoshop24.com/index.php?route=account/logout' and text()='Logout'])[1]",
+    "myAccountButton": "//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='My Account']",
+    "orderHistoryButton": "//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Order History']",
+    "transactionsButton": "//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Transactions']",
+    "downloadsButton": "//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Downloads']",
+    "searchEditTextArea": "//input[@type='text' and @name='search']",
+    "searchButton": "//button[@type='button']//i[@class='fa fa-search']",
+    "cartTotal": "#cart-total",
+    "goToCartFromCartTotal": "(//a[@href='http://www.demoshop24.com/index.php?route=checkout/cart'])[2]",
+    "desktopDropdown": "//a[@class='dropdown-toggle' and text()='Desktops']",
+    "desktopMac":"//a[text()='Mac (1)']",
+    "orderHistoryHeader":"#content h1"
+}

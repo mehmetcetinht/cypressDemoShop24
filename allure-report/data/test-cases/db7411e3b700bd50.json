@@ -1,0 +1,50 @@
+{
+  "uid" : "db7411e3b700bd50",
+  "name" : "Login with Invalid password",
+  "fullName" : "Login Suite.Login with Invalid password",
+  "historyId" : "5b51ba3a9269fef0a3dc2ceac194b3db",
+  "time" : {
+    "start" : 1641843117348,
+    "stop" : 1641843120907,
+    "duration" : 3559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login with Invalid password"
+  }, {
+    "name" : "package",
+    "value" : "Login Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db7411e3b700bd50.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1641843088913' stop='1641843135627'>
+    <name>Login Suite</name>
+    <title>Login Suite</title>
+    <test-cases>
+        <test-case start='1641843088913' status='passed' stop='1641843096556'>
+            <name>Positive Login Test</name>
+            <title>Positive Login Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641843096638' status='passed' stop='1641843099879'>
+            <name>Logout via element within list Test</name>
+            <title>Logout via element within list Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641843099887' status='passed' stop='1641843102940'>
+            <name>Logout via element within dropdown Test</name>
+            <title>Logout via element within dropdown Test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641843102976' status='failed' stop='1641843117272'>
+            <name>Login with Invalid email</name>
+            <title>Login with Invalid email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Warning: No match for E-Mail Address and/or Password.' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Warning: No match for E-Mail Address and/or Password.' but never did.
+                    at Context.eval (http://www.demoshop24.com/__cypress/tests?p=cypress\integration\DemoShop24\LoginSuite.spec.js:219:8)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1641843117348' status='passed' stop='1641843120907'>
+            <name>Login with Invalid password</name>
+            <title>Login with Invalid password</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641843120942' status='passed' stop='1641843123935'>
+            <name>Login with empty credentials</name>
+            <title>Login with empty credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641843123969' status='passed' stop='1641843135627'>
+            <name>Register as new user and login with that user</name>
+            <title>Register as new user and login with that user</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,56 @@
+{
+  "uid" : "cb869c637ac64041",
+  "name" : "Login with Invalid email",
+  "fullName" : "Login Suite.Login with Invalid email",
+  "historyId" : "4fdab81549570347c5f8cd7157511371",
+  "time" : {
+    "start" : 1641843102976,
+    "stop" : 1641843117272,
+    "duration" : 14296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 4000ms: Expected to find content: 'Warning: No match for E-Mail Address and/or Password.' but never did.",
+  "statusTrace" : "AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Warning: No match for E-Mail Address and/or Password.' but never did.\n                    at Context.eval (http://www.demoshop24.com/__cypress/tests?p=cypress\\integration\\DemoShop24\\LoginSuite.spec.js:219:8)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login with Invalid email"
+  }, {
+    "name" : "package",
+    "value" : "Login Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cb869c637ac64041.json",
+  "parameterValues" : [ ]
+}

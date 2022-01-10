@@ -1,0 +1,50 @@
+{
+  "uid" : "d807ca67f18d0960",
+  "name" : "Positive Login Test",
+  "fullName" : "Login Suite.Positive Login Test",
+  "historyId" : "46735fcb6c66cf3b2f719d8a9ef9c9c8",
+  "time" : {
+    "start" : 1641843088913,
+    "stop" : 1641843096556,
+    "duration" : 7643
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Positive Login Test"
+  }, {
+    "name" : "package",
+    "value" : "Login Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d807ca67f18d0960.json",
+  "parameterValues" : [ ]
+}

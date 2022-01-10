@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Timed out retrying after 4000ms: Expected to find content: 'Warning: No match for E-Mail Address and/or Password.' but never did.",
+      "children" : [ {
+        "name" : "Login with Invalid email",
+        "uid" : "cb869c637ac64041",
+        "parentUid" : "9029a69f0ea33322aef49b4af389486c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1641843102976,
+          "stop" : 1641843117272,
+          "duration" : 14296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9029a69f0ea33322aef49b4af389486c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

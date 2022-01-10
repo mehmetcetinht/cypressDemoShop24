@@ -1,0 +1,50 @@
+{
+  "uid" : "260634aa7f0b29c7",
+  "name" : "Search Samsung Item",
+  "fullName" : "Search Suite.Search Samsung Item",
+  "historyId" : "2618b52c43d4a3b9c3eaad13862fed91",
+  "time" : {
+    "start" : 1641843138990,
+    "stop" : 1641843149922,
+    "duration" : 10932
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search Samsung Item"
+  }, {
+    "name" : "package",
+    "value" : "Search Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "260634aa7f0b29c7.json",
+  "parameterValues" : [ ]
+}

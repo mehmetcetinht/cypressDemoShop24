@@ -1,0 +1,50 @@
+{
+  "uid" : "56ade11a1bcac34d",
+  "name" : "Search Mac Item",
+  "fullName" : "Search Suite.Search Mac Item",
+  "historyId" : "ca93b8c288c062a562479fae067d55ce",
+  "time" : {
+    "start" : 1641843149960,
+    "stop" : 1641843152650,
+    "duration" : 2690
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Search Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search Mac Item"
+  }, {
+    "name" : "package",
+    "value" : "Search Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56ade11a1bcac34d.json",
+  "parameterValues" : [ ]
+}
